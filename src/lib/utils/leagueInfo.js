@@ -7,7 +7,6 @@ export const enableBlog = false; //requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-
 `;
 
 /*   STEP 3   */
