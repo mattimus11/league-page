@@ -6,8 +6,11 @@ export const dynasty = true; // true for dynasty leagues, false for redraft and 
 export const enableBlog = false; //requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
-export const homepageText =' 
-';
+export const homepageText = `
+  <p></p>
+  <p></p>
+  <p></p>
+`;
 
 /*   STEP 3   */
 /*
